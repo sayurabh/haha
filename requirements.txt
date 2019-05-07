@@ -6,6 +6,7 @@ get==2019.4.13
 idna==2.8
 post==2019.4.13
 public==2019.4.13
+pypiwin32==223
 pytz==2019.1
 pywin32==224
 query-string==2019.4.13
